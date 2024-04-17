@@ -1,4 +1,4 @@
-This patch allows you to dock your switch while still using the internal speakers as audio output.
+This homebrew allows you to dock your switch while still using the internal speakers as audio output.
 
 # Why?
 Not all monitors have speakers.
