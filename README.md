@@ -13,7 +13,8 @@ The setting will reset after undocking.
 * When docked and enabled, volume can only be changed via the physical buttons or through this app.
 
 # Screenshot
-![IMG_2275](https://github.com/paulocode/switch_internal_speakers_nro/assets/15702729/bb1eb3be-c158-44c8-a66c-5c9d07add7e7)
+<img src="https://github.com/paulocode/switch_internal_speakers_nro/assets/15702729/f17d4996-0def-4511-994a-5695b63b3e9d" width=600/>
+
 
 # Credits
 Based on https://github.com/switchbrew/switch-examples/blob/master/audio/playtone/
