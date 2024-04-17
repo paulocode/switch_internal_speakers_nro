@@ -102,7 +102,7 @@ int main(int argc, char ** argv) {
       audout_buf.data_size = data_size;
       audout_buf.data_offset = 0;
       audout_released_buf = NULL;
-      audoutPlayBuffer( & audout_buf, & audout_released_buf);
+      audoutPlayBuffer(&audout_buf, &audout_released_buf);
       play_tone = false;
     }
 
